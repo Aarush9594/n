@@ -1,0 +1,18 @@
+.heading
+{
+   font-size: 20px;
+   width: 80%;
+}
+
+#camera,#result
+{
+   height: 250px;
+   width: 300px;
+   border: 2px solid blue;
+}
+
+.styles,#object_name,#object_accuracy
+{
+   color: seagreen;
+}
+
